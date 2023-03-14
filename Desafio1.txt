@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+
+
+
+
+
+ 						####     ######    ####      ##     ######   ######    ####               ##
+ 						## ##    ##       ##        ####    ##         ##     ##  ##             ###
+ 						##  ##   #####     ####    ##  ##   #####      ##     ##  ##              ##
+ 						##  ##   ##           ##   ##  ##   ##         ##     ##  ##              ##
+ 						## ##    ##           ##   ######   ##         ##     ##  ##              ##
+ 						####     ######    ####    ##  ##   ##       ######    ####             ######
+
+
+
+
+>>  Quais sao os tres numeros, nenhum dos quais e zero, que dao o mesmo resultado, quer sejam somados ou multiplicados? 
